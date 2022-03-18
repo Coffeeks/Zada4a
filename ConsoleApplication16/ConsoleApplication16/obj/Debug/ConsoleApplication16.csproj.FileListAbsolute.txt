@@ -1,0 +1,6 @@
+\\itcorp.tech\Homes\Student\01630\12\Documents\Visual Studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+\\itcorp.tech\Homes\Student\01630\12\Documents\Visual Studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+\\itcorp.tech\Homes\Student\01630\12\Documents\Visual Studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+\\itcorp.tech\Homes\Student\01630\12\Documents\Visual Studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.csprojResolveAssemblyReference.cache
+\\itcorp.tech\Homes\Student\01630\12\Documents\Visual Studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+\\itcorp.tech\Homes\Student\01630\12\Documents\Visual Studio 2015\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
